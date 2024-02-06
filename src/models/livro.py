@@ -1,6 +1,7 @@
 from typing import List, Optional
-from .obra import Obra
+
 from .autor import Autor
+from .obra import Obra
 
 
 class Livro(Obra):
