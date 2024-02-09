@@ -1,5 +1,6 @@
-from models import Autor, Livro, Pessoa, Biblioteca
 from datetime import datetime
+
+from models import Autor, Biblioteca, Livro, Pessoa
 
 if __name__ == "__main__":
     autor1 = Autor("Autor 1", "123456789", "Brasileiro")

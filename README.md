@@ -1,30 +1,21 @@
-# POO
-Etapa 1: Escolha do desafio: 
+# Repositório do Exercício de P.O.O. da Squad Mae C. Jemison do Bootcamp Back-end Python e Django
 
-    a. Gerenciamento de Biblioteca ou Gerenciamento de Mercado?
-    b. Criar o repositório para o desafio
-        i. O repositório deverá seguir as recomendações que constam no arquivo de orientações de entrega.
+## SQUAD MAE C. JEMISON - Exercício de P.O.O.
 
+Este repositório contém o exercício de P.O.O. da Squad Mae C. Jemison, parte do Bootcamp Back-end Python e Django. Nós escolhemos o exercício referente ao GERENCIAMENTO DE BIBLIOTECA, seguindo os modelos e requisitos da atividade de Programação Orientada a Objetos.
 
-Etapa 2: Análise de requisitos e modelagem
-Levando em consideração os conceitos de classe, herança, propriedade, encapsulamento e classe abstrata, definir:
-    a. as classes.
-    b. os atributos
-    c. os métodos
-sugestão: usar diagrama de classe.
+### Membros da Squad:
 
+- Ana Paula Martins Braga | [apmbraga](https://github.com/apmbraga)
+- Angela Filomena | [anbaptista](https://github.com/anbaptista/)
+- Daniele Ferreira Galvão | [DanieleFG](https://github.com/DanieleFG)
+- Indhira Viana Freire |
+- Manuele Maurício Lamenha | [Manu](https://github.com/Manu3052)
+- Millena Figueredo |
+- Quesia De Araújo Santos | [quesia-araujo](https://github.com/quesia-araujo)
+- Siomara Mota |
+- Tamar Bender |
+- Yohanna Oliveira Cavalcanti |
 
-Etapa 3: Implementação
-Codificar com base na modelagem feita no passo anterior.
-
-Etapa 4: Testes
-Desenvolver casos de testes para garantir que o sistema esteja funcionando.
-
-
-BANCO DE DADOS
-Etapa 5: Com base no desafio de POO, criar um banco de dados
-(definir melhor a etapa)
-
-ENTREGA
-Escolher uma representante da squad para preencher o formulário com o link do exercício resolvido
-
+## Forma de Organização para a Elaboração da Atividade:
+Após algumas conversas no grupo do discord, realizamos uma reunião no dia 05/02/2024 para conversarmos sobre a organização desse desafio e começarmos a prepará-lo. Ficou definido que os membros poderiam escolher qual dos dois projetos teriam mais interesse em desenvolver para que pudéssemos focar em entregá-los a tempo, mas que todos poderiam contribuir, mesmo que pouco, com os dois projetos.

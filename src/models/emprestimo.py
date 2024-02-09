@@ -1,7 +1,8 @@
+from datetime import datetime
 from typing import Optional
+
 from .obra import Obra
 from .pessoa import Pessoa
-from datetime import datetime
 
 
 class Emprestimo:
