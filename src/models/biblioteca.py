@@ -1,8 +1,9 @@
+from datetime import datetime
 from typing import List, Optional
+
+from .emprestimo import Emprestimo
 from .livro import Livro
 from .pessoa import Pessoa
-from datetime import datetime
-from .emprestimo import Emprestimo
 
 
 class Biblioteca:
