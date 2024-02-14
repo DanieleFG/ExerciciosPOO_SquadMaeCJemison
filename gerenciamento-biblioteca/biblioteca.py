@@ -36,7 +36,7 @@ class Biblioteca:
             # Contar quantos empréstimos o usuário já fez do livro
             emprestimos_usuario = sum(1 for registro in self.registros if registro.usuario == usuario and registro.livro == livro)
             if emprestimos_usuario >= livro.limite_emprestimo:
-                raise ValueError(f'Usuário {usuario.nome} já atingiu o limite d empréstimos do livro {livro.titulo}')
+                raise ValueError(f'Usuário {usuario.nome} já atingiu o limite de empréstimos do livro {livro.titulo}')
         if livro.exemplares_disponiveis == 0:
             raise ValueError(f'Não há exemplares disponíveis do livro {livro.titulo}')
         emprestimo = Emprestimo(usuario, livro, datetime.now())
