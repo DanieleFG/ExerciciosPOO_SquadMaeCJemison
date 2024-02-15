@@ -11,7 +11,7 @@ Este repositório contém o exercício de P.O.O. da Squad Mae C. Jemison, parte 
 - Daniele Ferreira Galvão | [DanieleFG](https://github.com/DanieleFG)
 - Indhira Viana Freire | [Indhira V. Freire](https://github.com/Indy-electro)
 - Manuele Maurício Lamenha | [Manu](https://github.com/Manu3052)
-- Millena Figueredo |
+- Millena Figueredo | [MildePaula](https://github.com/MildePaula)
 - Quesia De Araújo Santos | [quesia-araujo](https://github.com/quesia-araujo)
 - Siomara Mota |
 - Tamar Bender |
