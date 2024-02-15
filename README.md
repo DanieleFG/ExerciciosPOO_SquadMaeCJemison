@@ -15,6 +15,7 @@ Este repositório contém o exercício de P.O.O. da Squad Mae C. Jemison, parte 
 - Quesia De Araújo Santos | [quesia-araujo](https://github.com/quesia-araujo)
 - Siomara Mota |
 - Tamar Bender | [tamarbender] (https://github.com/tamarbender)
+-
 - Yohanna Oliveira Cavalcanti | [8b1tz ](https://github.com/8b1tz)
 
 
