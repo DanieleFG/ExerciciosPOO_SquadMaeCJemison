@@ -14,8 +14,7 @@ Este repositório contém o exercício de P.O.O. da Squad Mae C. Jemison, parte 
 - Millena Figueredo | [MildePaula](https://github.com/MildePaula)
 - Quesia De Araújo Santos | [quesia-araujo](https://github.com/quesia-araujo)
 - Siomara Mota |
-- Tamar Bender | [tamarbender] (https://github.com/tamarbender)
--
+- Tamar Bender | [tamarbender](https://github.com/tamarbender)
 - Yohanna Oliveira Cavalcanti | [8b1tz ](https://github.com/8b1tz)
 
 
